@@ -8,7 +8,7 @@ const teamMembers = [
   { name: "Shadiya Khan", initials: "SK" },
   { name: "Prachi", initials: "P" },
   { name: "Saloni", initials: "S" },
-  { name: "Khushi", initials: "K" },
+  { name: "Khushi", initials: "KH" },
 ];
 
 export default function About() {
