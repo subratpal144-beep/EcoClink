@@ -1,0 +1,92 @@
+Prompt for Frontend:
+
+Build a clean, modern, eco-friendly website for a student entrepreneurship project called “EcoClink”.
+
+Goal: To present our eco-friendly keychain business made from leftover fabric, showing our idea, products, team, and sustainability mission.
+
+Theme: Minimal, white and green colors, soft rounded buttons, natural textures (cloth, leaves).
+
+Pages & Content:
+
+Home:
+
+Title: “EcoClink – From Waste to Wow!”
+
+Subtitle: “Turning leftover fabric into handmade keychains.”
+
+Add a short paragraph about sustainability and reducing textile waste.
+
+Add 2–3 photos or placeholders for keychains.
+
+A “Learn More” button linking to the About page.
+
+About Us:
+
+A section about our team of Class 11 students from [Your School Name].
+
+Mention: “We are students passionate about sustainability and entrepreneurship.”
+
+Add mission statement: “We aim to make eco-friendly products that help reduce textile waste.”
+
+Products:
+
+Add cards for keychain samples (3 products).
+
+Each product should have an image, name, short description, and price range (₹40–₹60).
+
+Add a tagline: “Handcrafted with care from recycled fabric.”
+
+Contact Us:
+
+Add Instagram handle link, school email placeholder, and a contact form.
+
+Footer with “© 2025 EcoClink – Student Entrepreneurship Project”.
+
+Design Style:
+
+Soft green and white palette
+
+Smooth scrolling
+
+Modern font like Poppins or Lato
+
+Include eco icons like leaves or cloth patterns subtly in the background
+
+Extras:
+
+Add a simple navigation bar
+
+Add responsive design (mobile-friendly)
+
+Add smooth animations or fade-in effects on scroll
+
+No paid API or domain setup. The site must be viewable freely on the builder’s subdomain.
+
+⚙️ BACKEND PROMPT (Logic + Simple Functions)
+
+You won’t need a heavy backend since it’s not a real online store yet, but if the Agent AI allows backend scripting or logic (like simple Node.js, Flask, or Replit backend), use this prompt 👇
+
+Prompt for Backend:
+
+Add minimal backend functionality to support a simple contact form for the EcoClink website.
+
+Requirements:
+
+Create a “Contact” form that takes Name, Email, Message fields.
+
+When the user submits, display a success message (“Thanks for contacting us! We’ll get back to you soon.”).
+
+Store submissions temporarily in a local JSON file or print them in console (no database needed).
+
+Ensure no sensitive data is collected or shared.
+
+Backend must be lightweight and simple enough to run on a free plan.
+
+Additionally, if supported:
+
+Create a “Product Data” file (JSON) containing product info (Name, Price, Description, Image URL).
+
+Fetch this JSON from the frontend to dynamically display product cards on the “Products” page.
+
+Optional:
+Add a “Visitor Counter” at the bottom of the homepage that updates whenever someone opens the site.
