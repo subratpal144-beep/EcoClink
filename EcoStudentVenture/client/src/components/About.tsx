@@ -19,7 +19,8 @@ export default function About() {
             About EcoClink
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            A student-led initiative making a difference, one keychain at a time
+            A student-led initiative giving waste new purpose — from keychains and bags to creative accessories
+
           </p>
         </div>
 
@@ -30,10 +31,9 @@ export default function About() {
             </div>
             <h3 className="text-2xl font-semibold" data-testid="text-who-we-are">Who We Are</h3>
             <p className="text-muted-foreground leading-relaxed">
-              We are a passionate team of Class 11 students from <strong>Dr. B.R. Ambedkar
-              School of Excellence, Sec-17, Rohini</strong>. Driven by our commitment to
-              sustainability and entrepreneurship, we're learning valuable business skills while
-              making a positive environmental impact.
+              Our mission  is to  transform leftover fabrics into useful, eco-friendly creations - from
+              keychains and bags to many more sustainable products. Each design helps cut down textile
+              waste and shows that creativity and environmental care can go hand in hand.   
             </p>
           </Card>
 
