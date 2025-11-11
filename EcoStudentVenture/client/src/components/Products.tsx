@@ -37,7 +37,7 @@ export default function Products() {
             Handcrafted with care from recycled fabric
           </p>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Each keychain is unique, made from carefully selected leftover fabric pieces
+           Each creation is distinct, designed from repurposed fabric to reduce waste.
           </p>
         </div>
 
