@@ -179,7 +179,7 @@ export default function Contact() {
 
             <Card className="p-6 bg-gradient-to-br from-primary/10 to-primary/5 border-primary/20">
               <p className="text-sm text-center font-medium text-foreground">
-                Supporting sustainability, one keychain at a time
+                Crafted with care, designed for a better planet
               </p>
             </Card>
           </div>
