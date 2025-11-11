@@ -35,7 +35,7 @@ export default function Hero({ onLearnMore }: HeroProps) {
               className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground"
               data-testid="text-hero-title"
             >
-              EcoClink – Where Waste Finds New Purpose!
+              EcoClink – From Waste to Wow!
             </h1>
             <p
               className="text-xl md:text-2xl text-primary font-medium"
