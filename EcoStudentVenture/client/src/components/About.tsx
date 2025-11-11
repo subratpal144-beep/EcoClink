@@ -74,12 +74,7 @@ export default function About() {
               </div>
             ))}
           </div>
-
-          <p className="text-center text-sm text-muted-foreground italic">
-            And more amazing team members joining us soon!
-          </p>
-        </div>
-
+ 
         <div className="grid md:grid-cols-3 gap-8 mt-16">
           <div className="text-center space-y-3">
             <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto">
@@ -87,7 +82,7 @@ export default function About() {
             </div>
             <h4 className="font-semibold text-lg">Handcrafted with Care</h4>
             <p className="text-sm text-muted-foreground">
-              Every keychain is carefully made by hand with attention to detail
+              Each creation is made by hand, combining eco-conscious thinking with a touch of artistry.
             </p>
           </div>
 
