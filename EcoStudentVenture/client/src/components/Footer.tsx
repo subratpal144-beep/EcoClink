@@ -13,7 +13,7 @@ export default function Footer({ visitorCount = 0 }: FooterProps) {
           <div className="space-y-4">
             <img src={logo} alt="EcoClink Logo" className="h-12" data-testid="img-footer-logo" />
             <p className="text-sm text-muted-foreground">
-              Turning textile waste into beautiful, eco-friendly keychains
+              Transforming fabric scraps into handmade treasures
             </p>
           </div>
 
