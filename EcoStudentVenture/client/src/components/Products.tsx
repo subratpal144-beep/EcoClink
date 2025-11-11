@@ -1,25 +1,25 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import product1 from "@assets/generated_images/Floral_patchwork_fabric_keychain_c1d4fe9e.png";
-import product2 from "@assets/generated_images/Denim_and_green_cotton_keychain_cfe66308.png";
+import product1 from "@assets/generated_images/Vintage_Paisley_Tote_Bag.jpg";
+import product2 from "@assets/generated_images/Elegant_Floral_Fabric_Purse.jpg";
 import product3 from "@assets/generated_images/Bohemian_earthy_fabric_keychain_b3c12157.png";
 
 const products = [
   {
-    name: "Floral Charm Keychain",
-    description: "Vibrant patchwork design featuring colorful floral patterns from upcycled fabric scraps",
-    price: "₹40 - ₹50",
+    name: "Eco Nature Tote Bag",
+    description: "Stylish reusable tote bag crafted from quality recycled fabric featuring nature-inspired prints.",
+    price: "₹120 - ₹150",
     image: product1,
   },
   {
-    name: "Denim Mini Keychain",
-    description: "Minimalist eco-friendly design crafted from repurposed denim and green cotton",
-    price: "₹45 - ₹55",
+    name: "Fabric Patch Purse",
+    description: "Handmade purse from leftover textiles, blending color and sustainability in one eco piece.",
+    price: "₹90 - ₹110",
     image: product2,
   },
   {
     name: "Bohemian Earth Keychain",
-    description: "Rustic charm with mixed textile patterns and embroidered leaf detail in earthy tones",
+    description: "Rustic charm with mixed textile patterns and embroidered leaf detail in earthy tones.",
     price: "₹50 - ₹60",
     image: product3,
   },
