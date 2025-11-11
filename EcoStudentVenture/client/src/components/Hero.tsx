@@ -35,21 +35,22 @@ export default function Hero({ onLearnMore }: HeroProps) {
               className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground"
               data-testid="text-hero-title"
             >
-              EcoClink – From Waste to Wow!
+              EcoClink – Where Waste Finds New Purpose!
             </h1>
             <p
               className="text-xl md:text-2xl text-primary font-medium"
               data-testid="text-hero-subtitle"
             >
-              Turning leftover fabric into handmade keychains
+              Crafting eco-friendly creation — from keychains and bags to many more thoughtful items.
             </p>
           </div>
 
           <div className="max-w-2xl mx-auto">
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed" data-testid="text-hero-description">
-              Every keychain we create represents our commitment to sustainability and reducing
-              textile waste. By transforming leftover fabric into beautiful, functional accessories,
-              we're proving that small actions can make a big difference for our planet.
+              At Ecolink, we breathe new life into leftover fabrics by transforming them into creative,
+              sustainable products. From handmade keychains and purses to future lifestyle accessories,
+              every piece reflects our belief that innovation and care can turn everyday waste into
+              something truly meaningful.
             </p>
           </div>
 
