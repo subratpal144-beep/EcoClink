@@ -1,7 +1,7 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import product1 from "@assets/generated_images/Vintage_Paisley_Tote_Bag.jpg";
-import product2 from "@assets/generated_images/Elegant_Floral_Fabric_Purse.jpg";
+import product1 from "@assets/generated_images/Vintage Paisley Tote Bag.jpg";
+import product2 from "@assets/generated_images/Elegant Floral Fabric Purse.jpg";
 import product3 from "@assets/generated_images/Bohemian_earthy_fabric_keychain_b3c12157.png";
 
 const products = [
