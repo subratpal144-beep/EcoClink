@@ -8,19 +8,19 @@ const products = [
   {
     name: "Eco Nature Tote Bag",
     description: "Stylish reusable tote bag crafted from quality recycled fabric featuring nature-inspired prints.",
-    price: "₹120 - ₹150",
+    price: "₹150",
     image: product1,
   },
   {
     name: "Fabric Patch Purse",
     description: "Handmade purse from leftover textiles, blending color and sustainability in one eco piece.",
-    price: "₹90 - ₹110",
+    price: "₹110",
     image: product2,
   },
   {
     name: "Bohemian Earth Keychain",
     description: "Rustic charm with mixed textile patterns and embroidered leaf detail in earthy tones.",
-    price: "₹50 - ₹60",
+    price: "₹60",
     image: product3,
   },
 ];
