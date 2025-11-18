@@ -1,5 +1,5 @@
 import { Heart, Leaf } from "lucide-react";
-import logo from "@assets/ChatGPT Image Nov 8, 2025, 03_13_37 PM_1762595033423.png";
+import logo from "@assets/ReFibre.png";
 
 interface FooterProps {
   visitorCount?: number;
