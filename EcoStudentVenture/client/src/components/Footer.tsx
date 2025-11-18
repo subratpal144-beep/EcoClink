@@ -72,7 +72,7 @@ export default function Footer({ visitorCount = 0 }: FooterProps) {
 
         <div className="border-t border-border pt-8 space-y-4">
           <p className="text-center text-sm text-muted-foreground" data-testid="text-copyright">
-            © 2025 EcoClink – Student Entrepreneurship Project
+            © 2025 ReFibre – Student Entrepreneurship Project
           </p>
           <p className="text-center text-xs text-muted-foreground">
             Dr. B.R. Ambedkar School of Excellence, Sec-17, Rohini
