@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logo from "@assets/ChatGPT Image Nov 8, 2025, 03_13_37 PM_1762595033423.png";
+import logo from "@assets/ReFibre.png";
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
