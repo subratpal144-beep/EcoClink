@@ -35,7 +35,7 @@ export default function Hero({ onLearnMore }: HeroProps) {
               className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground"
               data-testid="text-hero-title"
             >
-              EcoClink – From Waste to Wow!
+              ReFibre – From Waste to Wow!
             </h1>
             <p
               className="text-xl md:text-2xl text-primary font-medium"
@@ -47,7 +47,7 @@ export default function Hero({ onLearnMore }: HeroProps) {
 
           <div className="max-w-2xl mx-auto">
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed" data-testid="text-hero-description">
-              At Ecolink, we breathe new life into leftover fabrics by transforming them into creative,
+              At ReFibre, we breathe new life into leftover fabrics by transforming them into creative,
               sustainable products. From handmade keychains and purses to future lifestyle accessories,
               every piece reflects our belief that innovation and care can turn everyday waste into
               something truly meaningful.
