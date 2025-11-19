@@ -28,7 +28,7 @@ const products = [
     description: "Rustic charm with mixed textile patterns and embroidered leaf detail in earthy tones.",
     price: "₹60",
     image: product4,
-    
+  }, 
 ];
 
 export default function Products() {
