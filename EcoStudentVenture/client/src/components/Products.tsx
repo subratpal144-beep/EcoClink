@@ -20,7 +20,7 @@ const products = [
   },
   {
     name: "UrbanLoop Eco Tote",
-    description: "A minimalist black tote made from recycled fabric yarn. Strong, stretchable and stylish—ideal for college, shopping or everyday carry. Crafted entirely from textile waste, turning leftover material into fashion..",
+    description: "A minimalist black tote made from recycled fabric yarn. Strong, stretchable and stylish—ideal for college, shopping or everyday carry. Crafted entirely from textile waste, turning leftover material into fashion.",
     price: "₹100",
     image: product3,
   },
@@ -31,8 +31,8 @@ const products = [
     image: product4,
   }, 
   {
-   name: "Bohemian Earth Keychain",
-    description: "Rustic charm with mixed textile patterns and embroidered leaf detail in earthy tones.",
+   name: "ReRibbon Charm Keychain",
+    description: "A cute handcrafted bow keychain made from repurposed fabric yarn. Soft, stylish, and eco-friendly—perfect for backpacks, handbags, or gifting. Each piece is made from textile leftovers, giving waste a second life.",
     price: "₹40",
     image: product5,
   }
