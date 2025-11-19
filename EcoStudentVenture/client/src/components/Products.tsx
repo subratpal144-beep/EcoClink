@@ -1,28 +1,34 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import product1 from "@assets/generated_images/Vintage Paisley Tote Bag.jpg";
-import product2 from "@assets/generated_images/Elegant Floral Fabric Purse.jpg";
-import product3 from "@assets/generated_images/Bohemian_earthy_fabric_keychain_b3c12157.png";
-
+import product1 from "@assets/generated_images/EcoCloud Lounge Bean Bag.webp";
+import product2 from "@assets/generated_images/ReWeave Heritage Tote.png";
+import product3 from "@assets/generated_images/UrbanLoop Eco Tote.jpg";
+import product4 from "@assets/generated_images/Bohemian_earthy_fabric_keychain_b3c12157.png";
 const products = [
   {
-    name: "Eco Nature Tote Bag",
-    description: "Stylish reusable tote bag crafted from quality recycled fabric featuring nature-inspired prints.",
-    price: "₹150",
+    name: "EcoCloud Lounge Bean Bag",
+    description: "A lightweight, ultra-comfortable bean bag hand-crafted from repurposed fabric. Designed for modern homes and made entirely from leftover textile material, EcoCloud brings comfort without harming the planet.",
+    price: "₹500",
     image: product1,
   },
   {
-    name: "Fabric Patch Purse",
-    description: "Handmade purse from leftover textiles, blending color and sustainability in one eco piece.",
-    price: "₹110",
+    name: "ReWeave Heritage Tote",
+    description: "A beautiful hand-woven tote bag made using cut-off cloth scraps braided into a stylish, durable design. Perfect for daily use, books, or quick outings. Every bag has a unique pattern—no two pieces are alike.",
+    price: "₹150",
     image: product2,
+  },
+  {
+    name: "UrbanLoop Eco Tote",
+    description: "A minimalist black tote made from recycled fabric yarn. Strong, stretchable and stylish—ideal for college, shopping or everyday carry. Crafted entirely from textile waste, turning leftover material into fashion..",
+    price: "₹100",
+    image: product3,
   },
   {
     name: "Bohemian Earth Keychain",
     description: "Rustic charm with mixed textile patterns and embroidered leaf detail in earthy tones.",
     price: "₹60",
-    image: product3,
-  },
+    image: product4,
+    
 ];
 
 export default function Products() {
