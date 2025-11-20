@@ -3,8 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import product1 from "@assets/generated_images/EcoCloud Lounge Bean Bag.webp";
 import product2 from "@assets/generated_images/ReWeave Heritage Tote.png";
 import product3 from "@assets/generated_images/UrbanLoop Eco Tote.jpg";
-import product4 from "@assets/generated_images/Bohemian_earthy_fabric_keychain_b3c12157.png";
-import product5 from "@assets/generated_images/Keychain.jpg";
+import product4 from "@assets/generated_images/Keychain.jpg";
 const products = [
   {
     name: "EcoCloud Lounge Bean Bag",
@@ -25,16 +24,10 @@ const products = [
     image: product3,
   },
   {
-    name: "Bohemian Earth Keychain",
-    description: "Rustic charm with mixed textile patterns and embroidered leaf detail in earthy tones.",
-    price: "₹60",
-    image: product4,
-  }, 
-  {
    name: "ReRibbon Charm Keychain",
     description: "A cute handcrafted bow keychain made from repurposed fabric yarn. Soft, stylish, and eco-friendly—perfect for backpacks, handbags, or gifting. Each piece is made from textile leftovers, giving waste a second life.",
     price: "₹40",
-    image: product5,
+    image: product4,
   }
 ];
 
